@@ -1,2 +1,2 @@
 # html-beginner-portfolio-page
-Final freeCodeCamp certification project. Small portfolio page to showcase the beginner level projects I have worked on. 
+final freeCodeCamp certification project. Built with consideration to pass the various test cases. This page aims to summarize my various beginner level projects. 
